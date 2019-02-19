@@ -10,12 +10,13 @@
 - Inside of `../../social-card` you'll then need to run `yarn start` to open up a React Development Server that can take your `.js` files as components and bundle them up to work in your new environment.
 - **You'll repeat this last two steps for the calculator project, but you'll need to make sure that you're inside of `../../calculator` directory to make this work.**
 
+
 ## Instructions
 
 
 - For the first project you'll work on the project found in `Project-I-Social-Card`.
 - For the second project you'll work on the project found in `Project-II-Calculator`.
-- Use the design files to build out your User Interfaces.
+- Use the design files to build out your User Interfaces.social
 - All components can be built out using the provided html files found in their respective directories.
 - Each file has been set up to work within a `react.js` environment. Pay attention to the notes found within each project.
 - Don't forget about `className` vs `class` on your `JSX elements`!!
@@ -39,7 +40,7 @@
 
 - Create a `<HeaderContainer />` container component that will hold your header components.
 
-  - Create an `<ImageThumbnail />` component using this image url https://tk-assets.lambdaschool.com/1c1b7262-cf23-4a9f-90b6-da0d3c74a5c6_lambdacrest.png as it's img src.
+  - Create an `<ImageThumbnail />` component using this image urhttps://tk-assets.lambdaschool.com/1c1b7262-cf23-4a9f-90b6-da0d3c74a5c6_lambdacrest.png as it's img src.l 
   - Create a `<HeaderTitle />` component that displays the Lambda School header text, @LambdaSchool handle and timestamp.
   - Create a `<HeaderContent />` component that displays the copy provided in the headers content.
 
