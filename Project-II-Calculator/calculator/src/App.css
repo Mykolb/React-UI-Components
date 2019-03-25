@@ -1,0 +1,15 @@
+.white {
+    background: white
+}
+
+.numberButtonStyle {
+    height: 80px;
+    width: 80px;
+    color: black;
+    line-height: 40;
+    display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+
+  
+}

@@ -12,6 +12,8 @@ import CardContainer from './components/CardComponents/CardContainer';
 import CardBanner from './components/CardComponents/CardBanner';
 import CardContent from './components/CardComponents/CardContent';
 
+//Footer Info//
+
 
 const App = () => {
   return (

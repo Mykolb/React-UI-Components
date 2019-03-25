@@ -1,1 +1,13 @@
 /* All styles for your Card Components live here */
+
+.card-container {
+    border: 5px solid red;
+    width: 50%;
+
+}
+
+.card-img {
+    border: 5px solid orange;
+    width: 50%;
+    
+}

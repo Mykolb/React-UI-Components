@@ -1,0 +1,13 @@
+.calc-display {
+    border: 1px solid gray;
+    display: flex;
+    width: 400px;
+    height: 120px;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    padding-left: 360px;
+    padding-top: 40px;
+}
