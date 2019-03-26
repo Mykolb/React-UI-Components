@@ -5,7 +5,7 @@ const ActionButton = props => {
     return(
         <div className='action'>
         <button className='clear-btn'>clear</button>
-        <button className='divide-btn'>{props.text}</button>
+        <button className='divide-btn'></button>
         </div>
     )
 }

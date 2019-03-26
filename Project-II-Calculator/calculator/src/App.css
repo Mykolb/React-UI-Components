@@ -1,13 +1,13 @@
-.white {
-    background: white
+.row1 {
+    border: 1px solid gray;
+    width: 400px;
+}
+.numberButtonStyle {
+    height: 100px;
+    width: 100px;
+    border: 1px solid gray;
 }
 
-.numberButtonStyle {
-    height: 80px;
-    width: 80px;
-    color: black;
-    line-height: 40;
-    display: flex;
-   flex-wrap: wrap;
-  
+.zero-btn {
+    
 }
