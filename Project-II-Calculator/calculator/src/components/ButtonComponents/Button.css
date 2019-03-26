@@ -8,12 +8,13 @@
  width: 300px;
  height: 100px;
  font-size: 2rem;
- position: relative;
- bottom: 36px;
 }
+
 
 .divide-btn {
  width: 100px;
  height: 100px;
  background-color: red;
+ font-size: 2rem;
 }
+

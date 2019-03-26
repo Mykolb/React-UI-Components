@@ -55,7 +55,7 @@
   - Build out the functionality so that a user can click on the icons and have them react to events.
 - Ensure that your product is as pixel perfect as possible using any tools that you were introduced to in previous weeks.
 - Look up the `moment.js` library and figure out how to format your `time-stamp` in your header to be todays date.
-
+y
 ## _Project II - React Calculator_
 
 - For this project you're not going to be given any tips on how to break down the image file into components. Now that you've had some practice with the social card, this should be something you can start doing on your own. Just think about the image, and what potentially looks like a component.

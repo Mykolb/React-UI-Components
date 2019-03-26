@@ -1,13 +1,45 @@
 .row1 {
     border: 1px solid gray;
     width: 400px;
+    height: 100px;
+}
+
+.row2 {
+    border: 1px solid gray;
+    width: 400px;
+    height: 100px;
+}
+
+.row3 {
+    border: 1px solid gray;
+    width: 400px;
+    height: 100px;
+}
+
+.row4 {
+    border: 1px solid gray;
+    width: 400px;
+    height: 100px;
 }
 .numberButtonStyle {
     height: 100px;
     width: 100px;
     border: 1px solid gray;
+    font-size: 3rem;
 }
 
 .zero-btn {
-    
+    width: 300px;
+    height: 100px;
+    font-size: 2rem;
+    position: relative;
+    bottom: 6px;
+}
+
+.equal-btn {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    font-size: 3rem;
 }
