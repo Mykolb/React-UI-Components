@@ -28,6 +28,9 @@
     font-size: 3rem;
 }
 
+
+
+
 .zero-btn {
     width: 300px;
     height: 100px;
@@ -39,7 +42,7 @@
 .equal-btn {
     width: 100px;
     height: 100px;
-    background-color: red;
+    background-color: darkred;
     position: relative;
     font-size: 3rem;
 }

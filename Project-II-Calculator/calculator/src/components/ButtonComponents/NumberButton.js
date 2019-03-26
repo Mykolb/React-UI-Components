@@ -20,7 +20,7 @@ const NumberButton = props => {
         <button className={`numberButtonStyle ${props.buttonStyle}`}>1</button>
         <button className={`numberButtonStyle ${props.buttonStyle}`}>2</button>
         <button className={`numberButtonStyle ${props.buttonStyle}`}>3</button>
-        <button className={`numberButtonStyle ${props.buttonStyle}`}>+</button>
+        <button className={`numberButtonStyle  ${props.buttonStyle}`}>+</button>
         </div>
         <div className='row4'>
         <button className='zero-btn'>0</button>
