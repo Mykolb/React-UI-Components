@@ -4,8 +4,8 @@ import './Button.css';
 const ActionButton = props => {
     return(
         <div className='action'>
-        <button>clear</button>
-        <button>0</button>
+        <button className='clear-btn'>clear</button>
+        <button className='divide-btn'>{props.text}</button>
         </div>
     )
 }
